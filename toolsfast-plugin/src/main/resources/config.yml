@@ -1,0 +1,57 @@
+prefix: "&8[&#C77DFF&lToolsFast&8] &7"
+players-only: "&cSolo giocatori."
+no-permission: "&cNon hai il permesso."
+
+database:
+  mysql:
+    enabled: false
+    host: localhost
+    port: 3306
+    database: toolsfast
+    user: root
+    password: ""
+    ssl: false
+
+self-destruct:
+  tick-interval-ticks: 20
+  lore-update-ticks: 10
+  expire:
+    sound: BLOCK_GLASS_BREAK
+    particle: END_ROD
+    particle-count: 30
+
+particles:
+  enable-on-break: true
+  break:
+    default: END_ROD
+    count: 8
+
+abilities:
+  require-sneak: false
+  tree-capitator:
+    max-blocks: 500
+  trench:
+    size: 3
+  tray:
+    radius: 2
+
+shop:
+  provider: fallback
+  fallback-prices:
+    COBBLESTONE: 0.1
+    STONE: 0.2
+    DIRT: 0.05
+    SAND: 0.1
+  worth:
+    IRON_INGOT: 3.0
+    GOLD_INGOT: 5.0
+    DIAMOND: 12.0
+
+infinite-firework:
+  cooldown-ms: 500
+
+lightning-wand:
+  cooldown-ms: 1000
+
+gui:
+  enabled: true

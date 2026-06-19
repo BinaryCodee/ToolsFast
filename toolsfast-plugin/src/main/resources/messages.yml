@@ -1,0 +1,49 @@
+prefix: "&8[&#C77DFF&lToolsFast&8] &7"
+players-only: "&cSolo giocatori."
+no-permission: "&cNon hai il permesso."
+
+tool-received:
+  - ""
+  - " &#C77DFF&lTOOLSFAST"
+  - " &fHai ricevuto:"
+  - " &#C77DFF%tool%"
+  - ""
+
+tool-received-title:
+  title: "&#C77DFF&lTOOLSFAST"
+  subtitle: "&fHai ottenuto &d%tool%"
+
+self-destruct-added:
+  - ""
+  - " &#FF7D7D&lSELF DESTRUCT"
+  - " &fScadenza impostata:"
+  - " &#FF7D7D%time%"
+  - ""
+
+self-destruct-added-delayed:
+  - ""
+  - " &#FF7D7D&lSELF DESTRUCT"
+  - " &fScadenza ritardata:"
+  - " &#FF7D7D%time%"
+  - " &7Si attivera al primo utilizzo."
+  - ""
+
+item-expired:
+  - ""
+  - " &#FF5555&lSCADENZA"
+  - " &fL'oggetto"
+  - " &#FF5555%item%"
+  - " &fè scaduto."
+  - ""
+
+self-destruct-expire-title:
+  title: "&#FF5555&lSCADENZA"
+  subtitle: "&fL'oggetto è stato distrutto"
+
+sell-nothing:
+  - "&#FF5555Niente da vendere."
+
+actionbar:
+  mining: "&d\u26CF &f+%blocks% blocchi"
+  sell: "&a$%money% &7aggiunti"
+  tree: "&2\uD83C\uDF33 &fAlbero abbattuto"

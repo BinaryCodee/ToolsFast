@@ -1,0 +1,14 @@
+id: amethyst_bucket
+material: BUCKET
+name: "&#C77DFF&lAMETHYST BUCKET"
+lore:
+  - "&8Utility"
+  - ""
+  - "&fCapacita:"
+  - "&d27 blocchi"
+  - ""
+  - "&fAssorbimento:"
+  - "&d\u25B8 &fAcqua"
+  - "&d\u25B8 &fLava"
+unbreakable: true
+abilities: []

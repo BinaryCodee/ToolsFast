@@ -1,0 +1,9 @@
+id: lightning_wand
+material: STICK
+name: "&#C77DFF&lLIGHTNING WAND"
+lore:
+  - "&8Weapon"
+  - ""
+  - "&fEvoca fulmini"
+unbreakable: true
+abilities: []

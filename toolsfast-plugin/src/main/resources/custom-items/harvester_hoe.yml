@@ -1,0 +1,16 @@
+id: harvester_hoe
+material: NETHERITE_HOE
+name: "&#C77DFF&lHARVESTER HOE"
+lore:
+  - "&8Farming Tool"
+  - ""
+  - "&fAbilita:"
+  - "&d\u25B8 &fRaccolta automatica"
+  - "&d\u25B8 &fReplant automatico"
+  - ""
+  - "&fColture Raccolte:"
+  - "&d%crops%"
+unbreakable: true
+abilities:
+  - AUTO_REPLANT
+  - AUTO_PICKUP

@@ -1,0 +1,9 @@
+id: craft_wand
+material: STICK
+name: "&#C77DFF&lCRAFT WAND"
+lore:
+  - "&8Utility"
+  - ""
+  - "&fCrafting istantaneo"
+unbreakable: true
+abilities: []

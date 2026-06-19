@@ -1,0 +1,18 @@
+id: amethyst_drill
+material: NETHERITE_PICKAXE
+name: "&#C77DFF&lAMETHYST DRILL"
+lore:
+  - "&8Mining Tool"
+  - ""
+  - "&fAbilita:"
+  - "&d\u25B8 &fBreak 3x3"
+  - "&d\u25B8 &fAuto Pickup"
+  - "&d\u25B8 &fFortune Support"
+  - ""
+  - "&fBlocchi Minati:"
+  - "&d%blocks%"
+unbreakable: true
+glow: false
+abilities:
+  - BREAK_3X3
+  - AUTO_PICKUP

@@ -1,0 +1,9 @@
+id: sell_wand
+material: STICK
+name: "&#C77DFF&lSELL WAND"
+lore:
+  - "&8Economy"
+  - ""
+  - "&fVende contenuto container"
+unbreakable: true
+abilities: []

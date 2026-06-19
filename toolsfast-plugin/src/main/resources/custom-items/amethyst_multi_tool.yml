@@ -1,0 +1,16 @@
+id: amethyst_multi_tool
+material: NETHERITE_PICKAXE
+name: "&#C77DFF&lAMETHYST MULTI TOOL"
+lore:
+  - "&8Smart Tool"
+  - ""
+  - "&fSwitch automatico:"
+  - "&d\u25B8 &fPickaxe"
+  - "&d\u25B8 &fAxe"
+  - "&d\u25B8 &fShovel"
+  - "&d\u25B8 &fSword"
+unbreakable: true
+abilities:
+  - BREAK_3X3
+  - TREE_CAPITATOR
+  - AUTO_PICKUP

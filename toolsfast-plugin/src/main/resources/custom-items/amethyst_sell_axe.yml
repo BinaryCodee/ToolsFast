@@ -1,0 +1,14 @@
+id: amethyst_sell_axe
+material: NETHERITE_AXE
+name: "&#C77DFF&lAMETHYST SELL AXE"
+lore:
+  - "&8Economy Tool"
+  - ""
+  - "&fAbilita:"
+  - "&d\u25B8 &fVende tutto il contenuto"
+  - "&d\u25B8 &fClick su chest"
+  - ""
+  - "&fItems Venduti:"
+  - "&d%items_sold%"
+unbreakable: true
+abilities: []

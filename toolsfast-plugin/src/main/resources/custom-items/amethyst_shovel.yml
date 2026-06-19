@@ -1,0 +1,13 @@
+id: amethyst_shovel
+material: NETHERITE_SHOVEL
+name: "&#C77DFF&lAMETHYST SHOVEL"
+lore:
+  - "&8Excavation Tool"
+  - ""
+  - "&fAbilita:"
+  - "&d\u25B8 &fBreak 3x3"
+  - "&d\u25B8 &fAuto Pickup"
+unbreakable: true
+abilities:
+  - BREAK_3X3
+  - AUTO_PICKUP

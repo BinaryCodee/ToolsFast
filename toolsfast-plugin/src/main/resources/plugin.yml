@@ -1,0 +1,29 @@
+name: ToolsFast
+version: '${project.version}'
+main: it.bypasser.toolsfast.ToolsFast
+api-version: '1.20'
+authors: [bypasser]
+description: Premium tools suite with self-destruct, custom items and abilities.
+softdepend:
+  - Vault
+  - PlaceholderAPI
+  - WorldGuard
+  - EconomyShopGUI
+  - ShopGUIPlus
+  - PrimeSell
+  - SellWorth
+  - ItemsAdder
+commands:
+  toolsfast:
+    description: ToolsFast main command
+    aliases: [tf, tools]
+    usage: /toolsfast
+permissions:
+  toolsfast.use:
+    default: true
+  toolsfast.menu:
+    default: true
+  toolsfast.selfdestruct:
+    default: op
+  toolsfast.admin:
+    default: op

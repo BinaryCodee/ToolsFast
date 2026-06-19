@@ -1,0 +1,16 @@
+id: amethyst_hammer
+material: NETHERITE_PICKAXE
+name: "&#C77DFF&lAMETHYST HAMMER"
+lore:
+  - "&8Mining Tool"
+  - ""
+  - "&fAbilita:"
+  - "&d\u25B8 &fBreak 5x5"
+  - "&d\u25B8 &fAuto Pickup"
+  - ""
+  - "&fBlocchi Minati:"
+  - "&d%blocks%"
+unbreakable: true
+abilities:
+  - BREAK_5X5
+  - AUTO_PICKUP

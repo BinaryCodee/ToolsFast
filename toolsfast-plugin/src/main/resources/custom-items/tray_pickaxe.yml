@@ -1,0 +1,12 @@
+id: tray_pickaxe
+material: NETHERITE_PICKAXE
+name: "&#C77DFF&lTRAY PICKAXE"
+lore:
+  - "&8Mining Tool"
+  - ""
+  - "&fAbilita:"
+  - "&d\u25B8 &fRompe layer orizzontali"
+unbreakable: true
+abilities:
+  - TRAY_BREAK
+  - AUTO_PICKUP

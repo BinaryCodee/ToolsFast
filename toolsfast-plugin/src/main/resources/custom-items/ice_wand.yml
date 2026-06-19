@@ -1,0 +1,10 @@
+id: ice_wand
+material: STICK
+name: "&#C77DFF&lICE WAND"
+lore:
+  - "&8Utility"
+  - ""
+  - "&fRimuove automaticamente"
+  - "&fghiaccio"
+unbreakable: true
+abilities: []

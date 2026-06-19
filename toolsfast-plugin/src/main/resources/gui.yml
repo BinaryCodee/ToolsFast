@@ -1,0 +1,75 @@
+main:
+  title: "&#C77DFFToolsFast"
+  size: 27
+  background: GRAY_STAINED_GLASS_PANE
+  items:
+    tools:
+      slot: 11
+      material: NETHERITE_PICKAXE
+      name: "&#C77DFF&lTOOLS"
+      lore:
+        - "&8Gestione"
+        - ""
+        - "&fVisualizza tutti gli"
+        - "&ftools disponibili."
+        - ""
+        - "&d\u25AA &fClick per aprire"
+    custom-items:
+      slot: 13
+      material: ENCHANTED_BOOK
+      name: "&#C77DFF&lCUSTOM ITEMS"
+      lore:
+        - "&8Gestione"
+        - ""
+        - "&fVisualizza tutti gli"
+        - "&fitem personalizzati."
+        - ""
+        - "&d\u25AA &fClick per aprire"
+    stats:
+      slot: 15
+      material: PLAYER_HEAD
+      name: "&#C77DFF&lSTATISTICHE"
+      lore:
+        - "&8Informazioni"
+        - ""
+        - "&fBlocchi Minati:"
+        - "&d%blocks%"
+        - ""
+        - "&fAlberi Abbattuti:"
+        - "&d%trees%"
+        - ""
+        - "&fSoldi Generati:"
+        - "&a$%money%"
+    leaderboard:
+      slot: 22
+      material: GOLDEN_AXE
+      name: "&#C77DFF&lCLASSIFICHE"
+      lore:
+        - "&8Top players"
+        - ""
+        - "&d\u25AA &fClick per aprire"
+    reload:
+      slot: 4
+      material: PAPER
+      name: "&#C77DFF&lRELOAD"
+      lore:
+        - "&8Admin"
+        - ""
+        - "&fRicarica configurazione"
+        - ""
+        - "&d\u25AA &fClick per ricaricare"
+    settings:
+      slot: 26
+      material: REPEATER
+      name: "&#C77DFF&lIMPOSTAZIONI"
+      lore:
+        - "&8Presto disponibile"
+
+custom-items:
+  title: "&#C77DFFCustom Items"
+
+tools:
+  title: "&#C77DFFTools"
+
+leaderboard:
+  title: "&#C77DFFClassifiche"

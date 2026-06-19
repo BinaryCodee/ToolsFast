@@ -1,0 +1,10 @@
+id: sand_wand
+material: STICK
+name: "&#C77DFF&lSAND WAND"
+lore:
+  - "&8Utility"
+  - ""
+  - "&fRiempimento automatico"
+  - "&fstack di sabbia"
+unbreakable: true
+abilities: []

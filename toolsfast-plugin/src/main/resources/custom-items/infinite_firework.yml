@@ -1,0 +1,11 @@
+id: infinite_firework
+material: FIREWORK_ROCKET
+name: "&#C77DFF&lINFINITE FIREWORK"
+lore:
+  - "&8Utility"
+  - ""
+  - "&fAbilita:"
+  - "&d\u25B8 &fElytra Boost"
+  - "&d\u25B8 &fNessun consumo"
+amount: 64
+abilities: []

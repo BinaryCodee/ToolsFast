@@ -1,0 +1,15 @@
+id: amethyst_axe
+material: NETHERITE_AXE
+name: "&#C77DFF&lAMETHYST AXE"
+lore:
+  - "&8Tree Capitator"
+  - ""
+  - "&fAbilita:"
+  - "&d\u25B8 &fTree Capitator"
+  - "&d\u25B8 &fRilevamento Foglie"
+  - ""
+  - "&fAlberi Abbattuti:"
+  - "&d%trees%"
+unbreakable: true
+abilities:
+  - TREE_CAPITATOR

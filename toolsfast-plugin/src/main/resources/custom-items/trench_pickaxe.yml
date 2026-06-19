@@ -1,0 +1,12 @@
+id: trench_pickaxe
+material: NETHERITE_PICKAXE
+name: "&#C77DFF&lTRENCH PICKAXE"
+lore:
+  - "&8Mining Tool"
+  - ""
+  - "&fAbilita:"
+  - "&d\u25B8 &fBreak 3x3 / 5x5 / 7x7"
+unbreakable: true
+abilities:
+  - TRENCH_BREAK
+  - AUTO_PICKUP
