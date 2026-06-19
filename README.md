@@ -234,7 +234,7 @@ ToolsFast exposes a complete public API for third-party plugins. Add only `tools
 
 <dependencies>
     <dependency>
-        <groupId>it.BinaryCodee</groupId>
+        <groupId>it.bypasser</groupId>
         <artifactId>toolsfast-api</artifactId>
         <version>1.0.0</version>
         <scope>provided</scope>
@@ -247,7 +247,7 @@ ToolsFast exposes a complete public API for third-party plugins. Add only `tools
 ```bash
 mvn install:install-file \
     -Dfile=toolsfast-api-1.0.0.jar \
-    -DgroupId=it.BinaryCodee \
+    -DgroupId=it.bypasser \
     -DartifactId=toolsfast-api \
     -Dversion=1.0.0 \
     -Dpackaging=jar
@@ -268,7 +268,7 @@ softdepend:
 ### Quick start
 
 ```java
-import it.BinaryCodee.toolsfast.api.ToolsFastAPI;
+import it.bypasser.toolsfast.api.ToolsFastAPI;
 
 @Override
 public void onEnable() {
@@ -320,7 +320,7 @@ public void onEnable() {
 
 ### Custom events
 
-All events are in `it.BinaryCodee.toolsfast.api.events`:
+All events are in `it.bypasser.toolsfast.api.events`:
 
 ```java
 @EventHandler
