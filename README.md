@@ -388,19 +388,9 @@ Complete JavaDoc for all public types in `toolsfast-api` is available online:
 
 <div align="center">
 
-### 🔗 [**JavaDoc Online**](https://toolsfast.netlify.app/apidocs/)
+### 🔗 [**JavaDoc Online**](https://toolsfast.netlify.app/)
 
-[![JavaDoc](https://img.shields.io/badge/JavaDoc-ToolsFast_API-C77DFF?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://toolsfast.netlify.app/apidocs/)
-
-</div>
-
-A GitBook-style documentation site is also available:
-
-<div align="center">
-
-### 📚 [**Documentation Site**](https://toolsfast.netlify.app/)
-
-[![Docs](https://img.shields.io/badge/Docs-GitBook_Style-C77DFF?style=for-the-badge&logo=gitbook&logoColor=white)](https://toolsfast.netlify.app/)
+[![JavaDoc](https://img.shields.io/badge/JavaDoc-ToolsFast_API-C77DFF?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://toolsfast.netlify.app/)
 
 </div>
 
